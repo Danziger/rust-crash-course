@@ -43,10 +43,10 @@ Please refer to this for an in-depth explanation of the content:
 
 # Rust intro
 
-- [Install cargo](./notes/install.md)
-- [Hello world](./topics/hello/README.md)
-- [Variable](./topics/variable/README.md)
-- [Function](./topics/function/README.md)
+- ✅ [Install cargo](./notes/install.md)
+- ✅ [Hello world](./topics/hello/README.md)
+- ✅ [Variable](./topics/variable/README.md)
+- ✅ [Function](./topics/function/README.md)
 
 # Data types
 
