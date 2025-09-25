@@ -31,7 +31,7 @@ fn main() {
     // Optional last index
     let s = &nums[7..];
     println!("{:?}", s);
-
+    
     // All
     let s = &nums[..];
     println!("{:?}", s);

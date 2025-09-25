@@ -50,14 +50,14 @@ Please refer to this for an in-depth explanation of the content:
 
 # Data types
 
-- [Scalar types](./topics/scalar/README.md)
-- [Tuple](./topics/tuple/README.md)
-- [Array](./topics/array/README.md)
-- [`String` and `&str`](./topics/string/README.md)
-- [Enum](./topics/enum_type/README.md)
-- [Struct](./topics/struct_type/README.md)
-- [Vector](./topics/vector/README.md)
-- [Hash map](./topics/hash_map/README.md)
+- ✅ [Scalar types](./topics/scalar/README.md)
+- ✅ [Tuple](./topics/tuple/README.md)
+- ✅ [Array](./topics/array/README.md)
+- ✅ [`String` and `&str`](./topics/string/README.md)
+- ✅ [Enum](./topics/enum_type/README.md)
+- ✅ [Struct](./topics/struct_type/README.md)
+- ✅ [Vector](./topics/vector/README.md)
+- ✅ [Hash map](./topics/hash_map/README.md)
 
 # Control flow
 

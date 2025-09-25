@@ -36,7 +36,9 @@ fn main() {
         center: Point { x: 0.0, y: 0.0 },
         radius: 3,
     };
-    println!("{:?}", circle);
+
+    // Pretty print due to #:
+    println!("{:#?}", circle);
 
     // Shortcut
     let x = 1.0;
