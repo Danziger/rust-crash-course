@@ -49,7 +49,18 @@ fn main() {
     println!("u32 silent overflow: {}", u);
 
     // Return None on overflow
-    println!("u32 check overflow: {:?}", u32::checked_add(u32::MAX, 1));
+    println!("u32 check overflow: {:?}", u32::checked_add(u32::MAX, 1)); // None
+
+    let some_result = u32::checked_add(2, 1); // Some (3)
+
+    match some_result {
+        Some(a) => println!("Got {}", a),
+        None => println!("Got None"),
+    }
+
+    // These won't work like this, but see https://users.rust-lang.org/t/extracting-the-content-of-an-option/64851
+    // let anotherResult = u32::checked_add(2, 1).ok_or("Some error")?;
+    // println!("u32 without overflow: {}", anotherResult);
 
     // Explicitly allow overflow
     println!("u32 allow overflow: {}", u32::wrapping_add(u32::MAX, 1));

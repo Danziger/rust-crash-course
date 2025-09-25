@@ -2,7 +2,7 @@
 
 // Function that returns multiple values using a tuple
 fn return_many() -> (u32, bool) {
-    (1, true)
+    (1u32, true)
 }
 
 // Function returning no value implicitly returns the unit type `()`
@@ -28,6 +28,7 @@ fn main() {
 
     // Empty tuple = unit type
     // Useful when returning a type with no value (example: Result<(), Error>)
+    // Another example: Result<(), String> = Ok(()) | Err("Some error message")
     let empty = ();
 
     // Nested tuple
