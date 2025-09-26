@@ -61,22 +61,22 @@ Please refer to this for an in-depth explanation of the content:
 
 # Control flow
 
-- [If / else](./topics/if_else/README.md)
-- [Loop](./topics/for_loop/README.md)
-- [Match](./topics/pattern_match/README.md)
-- [If let](./topics/if_let/README.md)
+- ✅ [If / else](./topics/if_else/README.md)
+- ✅ [Loop](./topics/for_loop/README.md)
+- ✅ [Match](./topics/pattern_match/README.md)
+- ✅ [If let](./topics/if_let/README.md)
 
 # Ownership
 
-- [Stack and heap](./topics/stack_heap/README.md)
-- [Ownership](./topics/ownership/README.md)
-- [Borrowing rules](./topics/borrowing_rules/README.md)
+- ✅ [Stack and heap](./topics/stack_heap/README.md)
+- ✅ [Ownership](./topics/ownership/README.md)
+- ✅ [ Borrowing rules](./topics/borrowing_rules/README.md)
 
 # Error handling
 
-- [Error handling](./topics/error/README.md)
-- [`unwrap` and `expect`](./topics/unwrap/README.md)
-- [`?`](./topics/question/README.md)
+- ✅ [Error handling](./topics/error/README.md)
+- ✅ [`unwrap` and `expect`](./topics/unwrap/README.md)
+- ✅ [`?`](./topics/question/README.md)
 
 # Modules
 
