@@ -80,7 +80,7 @@ Please refer to this for an in-depth explanation of the content:
 
 # Modules
 
-- [Mod](./topics/modules/README.md)
+- ✅ [Mod](./topics/modules/README.md)
 
 # Generic types and traits
 
