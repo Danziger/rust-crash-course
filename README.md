@@ -84,7 +84,7 @@ Please refer to this for an in-depth explanation of the content:
 
 # Generic types and traits
 
-- [Generic types](./topics/generic_type/README.md)
+- ✅ [Generic types](./topics/generic_type/README.md)
 - [Methods](./topics/method/README.md)
 - [Trait](./topics/trait_basic/README.md)
 - [Generic trait](./topics/generic_trait/README.md)
